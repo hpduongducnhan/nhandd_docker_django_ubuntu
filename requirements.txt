@@ -1,0 +1,16 @@
+mysql==0.0.2
+Django==2.1.8
+channels==2.2.0
+django-cors-headers==3.0.2
+django-rest-swagger==2.2.0
+djangorestframework==3.9.4
+Markdown==3.1.1
+mysql-connector==2.2.9
+mysqlclient==1.4.2.post1
+PyMySQL==0.9.3
+pyotp==2.2.7
+python-memcached==1.59
+redis==3.2.1
+redlock-py==1.0.8
+requests==2.22.0
+psycopg2==2.8.3
